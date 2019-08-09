@@ -1,4 +1,6 @@
 # COEN79
+Object Oriented Programming & Advanced Data Structures Class  
+
 Lab 2 (Statician/Random): Implement the statistician class and generate a sequence of pseudorandom integers   
 Lab 3 (Sequence): Implement an ordered bag class  
 Lab 4 (Keyed bag/Polynomials: Implement a keyed bag using arrays and create a polynomail class with calculus functions  
