@@ -27,24 +27,26 @@ void printstats1(sequence &seq)
     cout << "Sum: " << coen79_lab3::summation(seq) << endl;
     cout << "Contents: " ;
     printSequence1(seq);
-     cout << "-----------------------------" << endl ;
+    cout << "-----------------------------" << endl ;
 }
 
 int main(int argc, const char * argv[])
 {
-	sequence tester1;
-	tester1.insert(1);
-	tester1.insert(2);
-	tester1.insert(3);
+    sequence tester1;
+    tester1.insert(1);
+    tester1.insert(2);
+    tester1.insert(3);
     printstats1(tester1);
+    
     sequence tester2;
     tester2.insert(2);
     tester2.insert(3);
     tester2.insert(4);
     printstats1(tester2);
+    
     sequence tester3;
     tester3 = tester1 + tester2;
-     cout << "tester 3 : "<< endl;
+    cout << "tester 3 : "<< endl;
     printstats1(tester3);
     cout << "tester 3 functions : "<< endl;
     tester3.advance();
