@@ -2,7 +2,7 @@
 //  main.cpp
 //  Lab2Part2
 //
-//  Created by Justin Liu on 1/17/19.
+//  Created by Brandon Quant on 1/17/19.
 //  Copyright Â© 2019 SCU. All rights reserved.
 //
 
