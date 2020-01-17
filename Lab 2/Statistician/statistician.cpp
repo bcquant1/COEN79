@@ -2,7 +2,7 @@
 //  statistician.cpp
 //  Lab2
 //
-//  Created by brandon c quant on 1/17/19.
+//  Created by Brandon Quant on 1/17/19.
 //  Copyright Â© 2019 SCU. All rights reserved.
 //
 
